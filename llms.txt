@@ -1,0 +1,51 @@
+# Laboratoriomecanicadesuelos — Las Condes
+
+> Geotechnical engineering services in Las Condes, Chile.
+
+## Services
+- [Aislacion Sismica](https://las-condes.laboratoriomecanicadesuelos.com/aislacion-sismica/)
+- [Anclajes](https://las-condes.laboratoriomecanicadesuelos.com/anclajes/)
+- [Calicatas](https://las-condes.laboratoriomecanicadesuelos.com/calicatas/)
+- [Cbr Vial](https://las-condes.laboratoriomecanicadesuelos.com/cbr-vial/)
+- [Cimentaciones](https://las-condes.laboratoriomecanicadesuelos.com/cimentaciones/)
+- [Columnas Grava](https://las-condes.laboratoriomecanicadesuelos.com/columnas-grava/)
+- [Densidad Cono Arena](https://las-condes.laboratoriomecanicadesuelos.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://las-condes.laboratoriomecanicadesuelos.com/ensayo-cpt/)
+- [Ensayos Proctor](https://las-condes.laboratoriomecanicadesuelos.com/ensayos-proctor/)
+- [Estabilidad Taludes](https://las-condes.laboratoriomecanicadesuelos.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://las-condes.laboratoriomecanicadesuelos.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://las-condes.laboratoriomecanicadesuelos.com/excavaciones-subterraneo/)
+- [Exploracion](https://las-condes.laboratoriomecanicadesuelos.com/exploracion/)
+- [Geotecnia Vial](https://las-condes.laboratoriomecanicadesuelos.com/geotecnia-vial/)
+- [Granulometria](https://las-condes.laboratoriomecanicadesuelos.com/granulometria/)
+- [Inyecciones](https://las-condes.laboratoriomecanicadesuelos.com/inyecciones/)
+- [Laboratorio In Situ](https://las-condes.laboratoriomecanicadesuelos.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://las-condes.laboratoriomecanicadesuelos.com/laboratorio-lab/)
+- [Licuefaccion](https://las-condes.laboratoriomecanicadesuelos.com/licuefaccion/)
+- [Limites Atterberg](https://las-condes.laboratoriomecanicadesuelos.com/limites-atterberg/)
+- [Losas Fundacion](https://las-condes.laboratoriomecanicadesuelos.com/losas-fundacion/)
+- [Masw](https://las-condes.laboratoriomecanicadesuelos.com/masw/)
+- [Mejoramiento](https://las-condes.laboratoriomecanicadesuelos.com/mejoramiento/)
+- [Microzonificacion Sismica](https://las-condes.laboratoriomecanicadesuelos.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://las-condes.laboratoriomecanicadesuelos.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://las-condes.laboratoriomecanicadesuelos.com/muros-contencion/)
+- [Pavimento Flexible](https://las-condes.laboratoriomecanicadesuelos.com/pavimento-flexible/)
+- [Pavimento Rigido](https://las-condes.laboratoriomecanicadesuelos.com/pavimento-rigido/)
+- [Permeabilidad In Situ](https://las-condes.laboratoriomecanicadesuelos.com/permeabilidad-in-situ/)
+- [Pilotes](https://las-condes.laboratoriomecanicadesuelos.com/pilotes/)
+- [Refraccion Sismica](https://las-condes.laboratoriomecanicadesuelos.com/refraccion-sismica/)
+- [Resistividad](https://las-condes.laboratoriomecanicadesuelos.com/resistividad/)
+- [Sismica](https://las-condes.laboratoriomecanicadesuelos.com/sismica/)
+- [Sondajes Spt](https://las-condes.laboratoriomecanicadesuelos.com/sondajes-spt/)
+- [Taludes](https://las-condes.laboratoriomecanicadesuelos.com/taludes/)
+- [Triaxial](https://las-condes.laboratoriomecanicadesuelos.com/triaxial/)
+- [Tuneles Suelo Blando](https://las-condes.laboratoriomecanicadesuelos.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://las-condes.laboratoriomecanicadesuelos.com/vibrocompactacion/)
+- [Zapatas](https://las-condes.laboratoriomecanicadesuelos.com/zapatas/)
+
+## Contact
+- Website: https://las-condes.laboratoriomecanicadesuelos.com/
+
+## About
+This site provides geotechnical engineering services in Las Condes, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
